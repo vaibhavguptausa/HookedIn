@@ -1,0 +1,113 @@
+.ProfileContent {
+    color: rgba(0, 0, 0, 0.9);
+    width: 100%;
+    text-align: left;
+    display: relative;
+}
+.Content{
+    color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.Name{
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.Desc{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.Loc{
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+.Section1{
+    width: 60%;
+    align-self: flex-start;
+    padding: 20px 20px 0 20px;
+    padding-top: 95px;
+}
+.Section2{
+    align-self: flex-end;
+    padding: 20px 20px 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-items: flex-start;
+    align-self: center;
+    padding-top: 95px;
+}
+.BackGroundPicture{
+    height: 200px;
+    width: 100%;
+    background-color: aqua;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    overflow: hidden;
+}
+.connections{
+    color: rgb(219, 94, 117);
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 700;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.InstitutesName{
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.ProfilePicture{
+    position: absolute;
+    top: 225px;
+    padding-left: 20px;
+}
+
+.flexContainer{
+    display: flex;
+}
+
+.logo{
+    padding: 5px;
+    padding-top: 0px;
+
+}
+
+.contactInfo{
+    color: rgb(219, 94, 117);
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 700;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.roundImage{
+    border-radius: 50%;
+    margin-top: -5px;
+}
+
+.button{
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: rgb(219, 94, 117)!important;
+    line-height: 25px;
+    width: 100px;
+    margin-left: 20px;
+    border: transparent;
+    border-radius: 19px;
+    padding: 5px 0;
+}
+
+.InteractionSection{
+    padding: 20px 0;
+}

@@ -1,0 +1,9 @@
+.Header {
+    background-color: rgb(255, 255, 255);
+    border-bottom-color: rgba(208, 203, 203, 0.8);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    height: 55px;
+    display: flex;
+    width: 100vw;
+}

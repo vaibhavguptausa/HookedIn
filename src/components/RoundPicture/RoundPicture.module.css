@@ -1,0 +1,9 @@
+.RoundPicture {
+    border-radius: 50%;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    border-color: white;
+    border-width: 2px;
+    overflow: hidden;
+}
